@@ -1,6 +1,6 @@
 {
   "name": "htz-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "htz-ci 脚手架",
   "main": "index.js",
   "scripts": {

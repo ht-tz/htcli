@@ -21,7 +21,7 @@ export const templates: Map<string, TemplateInfo> = new Map([
         "Vite4-Vue3-Types-template",
         {
             name: "amdin-template",
-            downloadUrl: "https://github.com/ht-tz/htz-cli.git", //项目模版地址
+            downloadUrl: "https://github.com/ht-tz/deep-water.git", //项目模版地址
             description: "Vue3技术栈开发模版",
             branch: "master",
         },
