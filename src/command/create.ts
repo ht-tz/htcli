@@ -4,9 +4,10 @@ import {clone} from "../utils/clone";
 import axios, {AxiosResponse} from "axios";
 import {gt} from "lodash";
 import log from "../utils/log";
-import chalk from "chalk";
 import {name, version} from "../../package.json";
 const path = require("path");
+const chalk = require("chalk")
+ 
 
 export interface TemplateInfo {
     name: string; // 模版名称
